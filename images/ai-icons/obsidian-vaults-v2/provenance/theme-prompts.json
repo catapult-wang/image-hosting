@@ -1,0 +1,79 @@
+[
+  {
+    "id": "alphabet-base",
+    "name": "字母共用底板",
+    "path": "provenance\\alphabet-base.png",
+    "prompt": "Use case: logo-brand. Create ONE reusable blank background plate for an entire A-Z Obsidian icon alphabet. Square transparent PNG. Broad irregular six-sided faceted violet obsidian gemstone badge with slightly pointed top, asymmetric clipped corners; 90% of canvas width and height, minimal transparent margin. Unmistakable Obsidian purple crystal aesthetic, crisp flat polygon facets with subtle gradients. A huge flat dark deep-purple central face occupying 70% of canvas, surrounded by bright amethyst and lavender bevel facets only near the edges; keep center very dark and quiet for white letters to be added later. Broad squat shape rather than a narrow vertical shard. No letters, no symbols, no text, no shadows, no glow, no rounded-square background. Clean professional icon, exact centered composition. Genuinely transparent alpha background.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-7d7cfab1-f751-44e0-ae19-0b5fb6509fb8.png"
+  },
+  {
+    "id": "reading-writing",
+    "name": "读写",
+    "path": "themes\\Obsidian-reading-writing.png",
+    "prompt": "Use case: logo-brand. ONE square finished desktop vault icon, genuine transparent alpha background. Reference image is STYLE ONLY: elegant faceted Obsidian crystal, crisp polygon faces and restrained gradients. Redesign into a BROADER, almost-square irregular hexagonal black-obsidian gemstone badge with a slightly pointed top and subtly asymmetric clipped corners. Fill 90% of canvas, minimal transparent padding. Strong broad central face with a dark saturated color and lighter angular edge facets. No rounded app tile, no thin detail, no outer glow, no cast shadow, no extra objects. OPTIMIZED FOR 16-32 PX TASKBAR: the white distinguishing symbol must occupy 60-65% of full image width and height, dominate the central face, centered both horizontally AND vertically. Much larger than the small symbol in the reference. Chunky strokes and very simple geometric forms, high contrast. No text except specifically requested symbol. Consistent family. Theme 读写. Gem color: violet, dark rich center. Main distinguishing symbol: a single huge fountain pen nib, thick solid silhouette with a clear central slit, pure white. Keep the white symbol extremely large and instantly readable.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-a1f2c6c0-de0a-4aa3-acbc-3753c291a72f.png"
+  },
+  {
+    "id": "video",
+    "name": "视频制作",
+    "path": "themes\\Obsidian-video.png",
+    "prompt": "Use case: logo-brand. ONE square finished desktop vault icon, genuine transparent alpha background. Reference image is STYLE ONLY: elegant faceted Obsidian crystal, crisp polygon faces and restrained gradients. Redesign into a BROADER, almost-square irregular hexagonal black-obsidian gemstone badge with a slightly pointed top and subtly asymmetric clipped corners. Fill 90% of canvas, minimal transparent padding. Strong broad central face with a dark saturated color and lighter angular edge facets. No rounded app tile, no thin detail, no outer glow, no cast shadow, no extra objects. OPTIMIZED FOR 16-32 PX TASKBAR: the white distinguishing symbol must occupy 60-65% of full image width and height, dominate the central face, centered both horizontally AND vertically. Much larger than the small symbol in the reference. Chunky strokes and very simple geometric forms, high contrast. No text except specifically requested symbol. Consistent family. Theme 视频制作. Gem color: rose pink, dark rich center. Main distinguishing symbol: one huge cheerful little television pictogram, thick rounded rectangular TV frame, two aerials, two simple chevron eyes, two feet, pure white. Keep the white symbol extremely large and instantly readable.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-8becd93c-dddd-481e-9807-760d99a04e6d.png"
+  },
+  {
+    "id": "classes",
+    "name": "上课",
+    "path": "themes\\Obsidian-classes.png",
+    "prompt": "Use case: logo-brand. ONE square finished desktop vault icon, genuine transparent alpha background. Reference image is STYLE ONLY: elegant faceted Obsidian crystal, crisp polygon faces and restrained gradients. Redesign into a BROADER, almost-square irregular hexagonal black-obsidian gemstone badge with a slightly pointed top and subtly asymmetric clipped corners. Fill 90% of canvas, minimal transparent padding. Strong broad central face with a dark saturated color and lighter angular edge facets. No rounded app tile, no thin detail, no outer glow, no cast shadow, no extra objects. OPTIMIZED FOR 16-32 PX TASKBAR: the white distinguishing symbol must occupy 60-65% of full image width and height, dominate the central face, centered both horizontally AND vertically. Much larger than the small symbol in the reference. Chunky strokes and very simple geometric forms, high contrast. No text except specifically requested symbol. Consistent family. Theme 上课. Gem color: golden amber, dark rich center. Main distinguishing symbol: one huge graduation-cap silhouette with a thick tassel, pure white. Keep the white symbol extremely large and instantly readable.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-b43988af-df9b-4fbb-93d1-f16dd43f083f.png"
+  },
+  {
+    "id": "reference",
+    "name": "资料",
+    "path": "themes\\Obsidian-reference.png",
+    "prompt": "Use case: logo-brand. ONE square finished desktop vault icon, genuine transparent alpha background. Reference image is STYLE ONLY: elegant faceted Obsidian crystal, crisp polygon faces and restrained gradients. Redesign into a BROADER, almost-square irregular hexagonal black-obsidian gemstone badge with a slightly pointed top and subtly asymmetric clipped corners. Fill 90% of canvas, minimal transparent padding. Strong broad central face with a dark saturated color and lighter angular edge facets. No rounded app tile, no thin detail, no outer glow, no cast shadow, no extra objects. OPTIMIZED FOR 16-32 PX TASKBAR: the white distinguishing symbol must occupy 60-65% of full image width and height, dominate the central face, centered both horizontally AND vertically. Much larger than the small symbol in the reference. Chunky strokes and very simple geometric forms, high contrast. No text except specifically requested symbol. Consistent family. Theme 资料. Gem color: cobalt blue, dark rich center. Main distinguishing symbol: one huge solid folder silhouette with a bold tab, pure white. Keep the white symbol extremely large and instantly readable.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-c78b7dc4-6cb0-4be6-8683-009b90a6b92d.png"
+  },
+  {
+    "id": "journal",
+    "name": "日记",
+    "path": "themes\\Obsidian-journal.png",
+    "prompt": "Use case: logo-brand. ONE square finished desktop vault icon, genuine transparent alpha background. Reference image is STYLE ONLY: elegant faceted Obsidian crystal, crisp polygon faces and restrained gradients. Redesign into a BROADER, almost-square irregular hexagonal black-obsidian gemstone badge with a slightly pointed top and subtly asymmetric clipped corners. Fill 90% of canvas, minimal transparent padding. Strong broad central face with a dark saturated color and lighter angular edge facets. No rounded app tile, no thin detail, no outer glow, no cast shadow, no extra objects. OPTIMIZED FOR 16-32 PX TASKBAR: the white distinguishing symbol must occupy 60-65% of full image width and height, dominate the central face, centered both horizontally AND vertically. Much larger than the small symbol in the reference. Chunky strokes and very simple geometric forms, high contrast. No text except specifically requested symbol. Consistent family. Theme 日记. Gem color: warm coral, dark rich center. Main distinguishing symbol: one huge upright journal notebook silhouette with a large bookmark cutout, pure white. Keep the white symbol extremely large and instantly readable.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-6484fbc7-23b2-4767-a68e-c62fdbe39682.png"
+  },
+  {
+    "id": "library",
+    "name": "书库",
+    "path": "themes\\Obsidian-library.png",
+    "prompt": "Use case: logo-brand. ONE square finished desktop vault icon, genuine transparent alpha background. Reference image is STYLE ONLY: elegant faceted Obsidian crystal, crisp polygon faces and restrained gradients. Redesign into a BROADER, almost-square irregular hexagonal black-obsidian gemstone badge with a slightly pointed top and subtly asymmetric clipped corners. Fill 90% of canvas, minimal transparent padding. Strong broad central face with a dark saturated color and lighter angular edge facets. No rounded app tile, no thin detail, no outer glow, no cast shadow, no extra objects. OPTIMIZED FOR 16-32 PX TASKBAR: the white distinguishing symbol must occupy 60-65% of full image width and height, dominate the central face, centered both horizontally AND vertically. Much larger than the small symbol in the reference. Chunky strokes and very simple geometric forms, high contrast. No text except specifically requested symbol. Consistent family. Theme 书库. Gem color: emerald green, dark rich center. Main distinguishing symbol: one huge open-book silhouette with only a central gutter, pure white. Keep the white symbol extremely large and instantly readable.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-1cccd045-974d-4ac1-9959-04befe15d1b9.png"
+  },
+  {
+    "id": "research",
+    "name": "研究",
+    "path": "themes\\Obsidian-research.png",
+    "prompt": "Use case: logo-brand. ONE square finished desktop vault icon, genuine transparent alpha background. Reference image is STYLE ONLY: elegant faceted Obsidian crystal, crisp polygon faces and restrained gradients. Redesign into a BROADER, almost-square irregular hexagonal black-obsidian gemstone badge with a slightly pointed top and subtly asymmetric clipped corners. Fill 90% of canvas, minimal transparent padding. Strong broad central face with a dark saturated color and lighter angular edge facets. No rounded app tile, no thin detail, no outer glow, no cast shadow, no extra objects. OPTIMIZED FOR 16-32 PX TASKBAR: the white distinguishing symbol must occupy 60-65% of full image width and height, dominate the central face, centered both horizontally AND vertically. Much larger than the small symbol in the reference. Chunky strokes and very simple geometric forms, high contrast. No text except specifically requested symbol. Consistent family. Theme 研究. Gem color: indigo blue, dark rich center. Main distinguishing symbol: one huge magnifying glass with a thick circular ring and broad diagonal handle, pure white. Keep the white symbol extremely large and instantly readable.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-c59d2ccb-377f-4748-914d-ea61610daaf2.png"
+  },
+  {
+    "id": "knowledge",
+    "name": "个人知识库",
+    "path": "themes\\Obsidian-knowledge.png",
+    "prompt": "Use case: logo-brand. ONE square finished desktop vault icon, genuine transparent alpha background. Reference image is STYLE ONLY: elegant faceted Obsidian crystal, crisp polygon faces and restrained gradients. Redesign into a BROADER, almost-square irregular hexagonal black-obsidian gemstone badge with a slightly pointed top and subtly asymmetric clipped corners. Fill 90% of canvas, minimal transparent padding. Strong broad central face with a dark saturated color and lighter angular edge facets. No rounded app tile, no thin detail, no outer glow, no cast shadow, no extra objects. OPTIMIZED FOR 16-32 PX TASKBAR: the white distinguishing symbol must occupy 60-65% of full image width and height, dominate the central face, centered both horizontally AND vertically. Much larger than the small symbol in the reference. Chunky strokes and very simple geometric forms, high contrast. No text except specifically requested symbol. Consistent family. Theme 个人知识库. Gem color: copper orange, dark rich center. Main distinguishing symbol: one huge network symbol of three large filled circular nodes linked by thick lines in a triangle, pure white. Keep the white symbol extremely large and instantly readable.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-05117b7e-3325-48be-8162-41e2a0642d9e.png"
+  },
+  {
+    "id": "coding",
+    "name": "编程",
+    "path": "themes\\Obsidian-coding.png",
+    "prompt": "Use case: logo-brand. ONE square finished desktop vault icon, genuine transparent alpha background. Reference image is STYLE ONLY: elegant faceted Obsidian crystal, crisp polygon faces and restrained gradients. Redesign into a BROADER, almost-square irregular hexagonal black-obsidian gemstone badge with a slightly pointed top and subtly asymmetric clipped corners. Fill 90% of canvas, minimal transparent padding. Strong broad central face with a dark saturated color and lighter angular edge facets. No rounded app tile, no thin detail, no outer glow, no cast shadow, no extra objects. OPTIMIZED FOR 16-32 PX TASKBAR: the white distinguishing symbol must occupy 60-65% of full image width and height, dominate the central face, centered both horizontally AND vertically. Much larger than the small symbol in the reference. Chunky strokes and very simple geometric forms, high contrast. No text except specifically requested symbol. Consistent family. Theme 编程. Gem color: slate blue gray, dark rich center. Main distinguishing symbol: one huge pair of thick angle brackets and one central slash, code symbol, pure white. Keep the white symbol extremely large and instantly readable.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-83309c8f-bc98-4837-8126-c7f888a03cec.png"
+  },
+  {
+    "id": "projects",
+    "name": "项目管理",
+    "path": "themes\\Obsidian-projects.png",
+    "prompt": "Use case: logo-brand. ONE square finished desktop vault icon, genuine transparent alpha background. Reference image is STYLE ONLY: elegant faceted Obsidian crystal, crisp polygon faces and restrained gradients. Redesign into a BROADER, almost-square irregular hexagonal black-obsidian gemstone badge with a slightly pointed top and subtly asymmetric clipped corners. Fill 90% of canvas, minimal transparent padding. Strong broad central face with a dark saturated color and lighter angular edge facets. No rounded app tile, no thin detail, no outer glow, no cast shadow, no extra objects. OPTIMIZED FOR 16-32 PX TASKBAR: the white distinguishing symbol must occupy 60-65% of full image width and height, dominate the central face, centered both horizontally AND vertically. Much larger than the small symbol in the reference. Chunky strokes and very simple geometric forms, high contrast. No text except specifically requested symbol. Consistent family. Theme 项目管理. Gem color: teal, dark rich center. Main distinguishing symbol: one huge bold checkmark inside a thick rounded square frame, pure white. Keep the white symbol extremely large and instantly readable.",
+    "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-c10e5cd2-e0a0-44c4-9ba6-19e05a80db4f.png"
+  }
+]

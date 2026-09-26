@@ -1,0 +1,270 @@
+{
+  "name": "Obsidian-inspired Vault Icons",
+  "version": "2.0.0",
+  "created": "2026-09-26",
+  "count": 36,
+  "icons": [
+    {
+      "id": "theme-reading-writing",
+      "label": "读写",
+      "category": "theme",
+      "color": "violet",
+      "png": "themes/Obsidian-reading-writing.png",
+      "ico": "themes/Obsidian-reading-writing.ico"
+    },
+    {
+      "id": "theme-reference",
+      "label": "资料",
+      "category": "theme",
+      "color": "cobalt blue",
+      "png": "themes/Obsidian-reference.png",
+      "ico": "themes/Obsidian-reference.ico"
+    },
+    {
+      "id": "theme-library",
+      "label": "书库",
+      "category": "theme",
+      "color": "emerald green",
+      "png": "themes/Obsidian-library.png",
+      "ico": "themes/Obsidian-library.ico"
+    },
+    {
+      "id": "theme-video",
+      "label": "视频制作",
+      "category": "theme",
+      "color": "rose pink",
+      "png": "themes/Obsidian-video.png",
+      "ico": "themes/Obsidian-video.ico"
+    },
+    {
+      "id": "theme-classes",
+      "label": "上课",
+      "category": "theme",
+      "color": "golden amber",
+      "png": "themes/Obsidian-classes.png",
+      "ico": "themes/Obsidian-classes.ico"
+    },
+    {
+      "id": "theme-journal",
+      "label": "日记",
+      "category": "theme",
+      "color": "warm coral",
+      "png": "themes/Obsidian-journal.png",
+      "ico": "themes/Obsidian-journal.ico"
+    },
+    {
+      "id": "theme-projects",
+      "label": "项目管理",
+      "category": "theme",
+      "color": "teal",
+      "png": "themes/Obsidian-projects.png",
+      "ico": "themes/Obsidian-projects.ico"
+    },
+    {
+      "id": "theme-research",
+      "label": "研究",
+      "category": "theme",
+      "color": "indigo blue",
+      "png": "themes/Obsidian-research.png",
+      "ico": "themes/Obsidian-research.ico"
+    },
+    {
+      "id": "theme-coding",
+      "label": "编程",
+      "category": "theme",
+      "color": "slate blue gray",
+      "png": "themes/Obsidian-coding.png",
+      "ico": "themes/Obsidian-coding.ico"
+    },
+    {
+      "id": "theme-knowledge",
+      "label": "个人知识库",
+      "category": "theme",
+      "color": "copper orange",
+      "png": "themes/Obsidian-knowledge.png",
+      "ico": "themes/Obsidian-knowledge.ico"
+    },
+    {
+      "id": "letter-a",
+      "label": "A",
+      "category": "letter",
+      "png": "letters/Obsidian-A.png",
+      "ico": "letters/Obsidian-A.ico"
+    },
+    {
+      "id": "letter-b",
+      "label": "B",
+      "category": "letter",
+      "png": "letters/Obsidian-B.png",
+      "ico": "letters/Obsidian-B.ico"
+    },
+    {
+      "id": "letter-c",
+      "label": "C",
+      "category": "letter",
+      "png": "letters/Obsidian-C.png",
+      "ico": "letters/Obsidian-C.ico"
+    },
+    {
+      "id": "letter-d",
+      "label": "D",
+      "category": "letter",
+      "png": "letters/Obsidian-D.png",
+      "ico": "letters/Obsidian-D.ico"
+    },
+    {
+      "id": "letter-e",
+      "label": "E",
+      "category": "letter",
+      "png": "letters/Obsidian-E.png",
+      "ico": "letters/Obsidian-E.ico"
+    },
+    {
+      "id": "letter-f",
+      "label": "F",
+      "category": "letter",
+      "png": "letters/Obsidian-F.png",
+      "ico": "letters/Obsidian-F.ico"
+    },
+    {
+      "id": "letter-g",
+      "label": "G",
+      "category": "letter",
+      "png": "letters/Obsidian-G.png",
+      "ico": "letters/Obsidian-G.ico"
+    },
+    {
+      "id": "letter-h",
+      "label": "H",
+      "category": "letter",
+      "png": "letters/Obsidian-H.png",
+      "ico": "letters/Obsidian-H.ico"
+    },
+    {
+      "id": "letter-i",
+      "label": "I",
+      "category": "letter",
+      "png": "letters/Obsidian-I.png",
+      "ico": "letters/Obsidian-I.ico"
+    },
+    {
+      "id": "letter-j",
+      "label": "J",
+      "category": "letter",
+      "png": "letters/Obsidian-J.png",
+      "ico": "letters/Obsidian-J.ico"
+    },
+    {
+      "id": "letter-k",
+      "label": "K",
+      "category": "letter",
+      "png": "letters/Obsidian-K.png",
+      "ico": "letters/Obsidian-K.ico"
+    },
+    {
+      "id": "letter-l",
+      "label": "L",
+      "category": "letter",
+      "png": "letters/Obsidian-L.png",
+      "ico": "letters/Obsidian-L.ico"
+    },
+    {
+      "id": "letter-m",
+      "label": "M",
+      "category": "letter",
+      "png": "letters/Obsidian-M.png",
+      "ico": "letters/Obsidian-M.ico"
+    },
+    {
+      "id": "letter-n",
+      "label": "N",
+      "category": "letter",
+      "png": "letters/Obsidian-N.png",
+      "ico": "letters/Obsidian-N.ico"
+    },
+    {
+      "id": "letter-o",
+      "label": "O",
+      "category": "letter",
+      "png": "letters/Obsidian-O.png",
+      "ico": "letters/Obsidian-O.ico"
+    },
+    {
+      "id": "letter-p",
+      "label": "P",
+      "category": "letter",
+      "png": "letters/Obsidian-P.png",
+      "ico": "letters/Obsidian-P.ico"
+    },
+    {
+      "id": "letter-q",
+      "label": "Q",
+      "category": "letter",
+      "png": "letters/Obsidian-Q.png",
+      "ico": "letters/Obsidian-Q.ico"
+    },
+    {
+      "id": "letter-r",
+      "label": "R",
+      "category": "letter",
+      "png": "letters/Obsidian-R.png",
+      "ico": "letters/Obsidian-R.ico"
+    },
+    {
+      "id": "letter-s",
+      "label": "S",
+      "category": "letter",
+      "png": "letters/Obsidian-S.png",
+      "ico": "letters/Obsidian-S.ico"
+    },
+    {
+      "id": "letter-t",
+      "label": "T",
+      "category": "letter",
+      "png": "letters/Obsidian-T.png",
+      "ico": "letters/Obsidian-T.ico"
+    },
+    {
+      "id": "letter-u",
+      "label": "U",
+      "category": "letter",
+      "png": "letters/Obsidian-U.png",
+      "ico": "letters/Obsidian-U.ico"
+    },
+    {
+      "id": "letter-v",
+      "label": "V",
+      "category": "letter",
+      "png": "letters/Obsidian-V.png",
+      "ico": "letters/Obsidian-V.ico"
+    },
+    {
+      "id": "letter-w",
+      "label": "W",
+      "category": "letter",
+      "png": "letters/Obsidian-W.png",
+      "ico": "letters/Obsidian-W.ico"
+    },
+    {
+      "id": "letter-x",
+      "label": "X",
+      "category": "letter",
+      "png": "letters/Obsidian-X.png",
+      "ico": "letters/Obsidian-X.ico"
+    },
+    {
+      "id": "letter-y",
+      "label": "Y",
+      "category": "letter",
+      "png": "letters/Obsidian-Y.png",
+      "ico": "letters/Obsidian-Y.ico"
+    },
+    {
+      "id": "letter-z",
+      "label": "Z",
+      "category": "letter",
+      "png": "letters/Obsidian-Z.png",
+      "ico": "letters/Obsidian-Z.ico"
+    }
+  ]
+}

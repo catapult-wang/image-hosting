@@ -1,0 +1,112 @@
+{
+  "tool": "image_gen",
+  "reference": "alphabet-base.png",
+  "letters": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "promptTemplate": "Use case: precise-object-edit. This is the fixed shared background plate for a matching A-Z icon set. Edit this image by adding ONLY ONE capital Latin letter \"{LETTER}\" on the dark central face. Keep the entire original purple obsidian crystal background, exact outer silhouette, all facets, colors, illumination, orientation, position, canvas and transparency unchanged. Do not redraw or redesign any of the crystal. Text verbatim: \"{LETTER}\". The single letter is pure white, extremely bold upright geometric sans-serif, clean typographic shape, no serif, no bevel, no shadow, no outline. Optically center the letter on the canvas at x=50%, y=52%. Uniform capital height exactly 50% of the full canvas height; character width naturally proportional, limit width to 53% of canvas for wide letters. Thick strokes approximately 9% of canvas width, generous open counters for tiny taskbar legibility. A plain sans-serif capital I must have horizontal top and bottom bars to distinguish it; other letters use conventional bold sans-serif. No other text, marks, ornaments or symbols. One square transparent PNG with genuine alpha. Absolutely preserve the shared base; only add the letter.",
+  "outputs": [
+    {
+      "letter": "A",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-0fc43888-0539-4ef5-a889-e66cc586ff53.png"
+    },
+    {
+      "letter": "B",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-64f3dfc2-8f60-41d3-b9ba-77480191c9df.png"
+    },
+    {
+      "letter": "C",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-43009013-dc30-4ef6-95ee-eb28fbedecea.png"
+    },
+    {
+      "letter": "D",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-12bb1280-bc0b-4930-94ee-3b9c17b595de.png"
+    },
+    {
+      "letter": "E",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-ca7a44e3-e8bd-4f5e-99e6-4a9690846f57.png"
+    },
+    {
+      "letter": "F",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-a80f83ee-1835-4473-8877-68f31aa9b413.png"
+    },
+    {
+      "letter": "G",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-324797c6-8376-43e3-a5b5-a3f52e45e6c9.png"
+    },
+    {
+      "letter": "H",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-08913c1a-fea6-466d-83a2-698a4c84b02d.png"
+    },
+    {
+      "letter": "I",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-c11f72e5-8e27-474c-9878-ca76d5b5e1c5.png"
+    },
+    {
+      "letter": "J",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-c05ea366-5a39-44dd-a594-854b056b6208.png"
+    },
+    {
+      "letter": "K",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-1859998f-2222-4296-9063-79a8be9f0263.png"
+    },
+    {
+      "letter": "L",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-13de92bf-01f6-42e2-8945-32766ab61858.png"
+    },
+    {
+      "letter": "M",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-5ae3d506-a891-4d51-b742-7e187f6085de.png"
+    },
+    {
+      "letter": "N",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-8b9b17e5-93ce-457d-af95-5941c1b87b3c.png"
+    },
+    {
+      "letter": "O",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-38d5c987-b227-496f-9d0e-bf95f36d29e4.png"
+    },
+    {
+      "letter": "P",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-ee7649d0-c32f-47e7-98c2-d97dba09a51d.png"
+    },
+    {
+      "letter": "Q",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-56c5b945-dc8d-4691-961c-d457e397328a.png"
+    },
+    {
+      "letter": "R",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-0a4774fc-e917-4db0-b6ac-908db6683044.png"
+    },
+    {
+      "letter": "S",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-d95e3d23-4057-4d54-beae-cc1544ee7e93.png"
+    },
+    {
+      "letter": "T",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-506128c1-3b75-4007-ac39-14ecd2cf74fc.png"
+    },
+    {
+      "letter": "U",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-242a3b27-7418-42cb-a9db-18224b1de4ae.png"
+    },
+    {
+      "letter": "V",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-133db88a-0d5d-4441-bd18-6a75f9cd2d82.png"
+    },
+    {
+      "letter": "W",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-d48e7667-853a-4437-8c2c-97d738273ba4.png"
+    },
+    {
+      "letter": "X",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-94cf48c1-584e-4db6-b805-68817b59ae30.png"
+    },
+    {
+      "letter": "Y",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-133ccecb-105d-4620-abd3-7cb318702f0e.png"
+    },
+    {
+      "letter": "Z",
+      "source": "C:\\Users\\Xiaoyu\\.codex\\generated_images\\01a0dc2f-2ce2-7551-b47d-cf5433369534\\exec-713e0404-d3c3-4484-8e59-f4250a57d02e.png"
+    }
+  ]
+}
