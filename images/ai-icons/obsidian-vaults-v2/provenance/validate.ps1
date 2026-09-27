@@ -2,7 +2,7 @@ param([string]$Root)
 $ErrorActionPreference='Stop'
 Add-Type -AssemblyName System.Drawing
 $manifest=Get-Content -LiteralPath "$Root\manifest.json" -Raw -Encoding UTF8 | ConvertFrom-Json
-if($manifest.icons.Count -ne 36){throw 'Expected 36 icons'}
+if($manifest.icons.Count -ne $manifest.count){throw 'Icon count does not match manifest'}
 $records=@()
 foreach($entry in $manifest.icons) {
   $png=Join-Path $Root $entry.png
@@ -26,3 +26,4 @@ foreach($entry in $manifest.icons) {
 }
 [pscustomobject]@{count=$records.Count;passed=$true;icons=$records} | ConvertTo-Json -Depth 6 | Set-Content -LiteralPath "$Root\validation.json" -Encoding UTF8
 Write-Output "Validated $($records.Count) square transparent PNGs and seven-resolution ICOs."
+

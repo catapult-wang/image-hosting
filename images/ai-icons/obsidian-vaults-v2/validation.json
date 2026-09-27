@@ -1,5 +1,5 @@
 {
-  "count": 36,
+  "count": 37,
   "passed": true,
   "icons": [
     {
@@ -613,6 +613,23 @@
       ],
       "pngSha256": "626C2ADE29E58EF3EAFAA68923E77426F450321C4D7F432DFD913ED41EC84082",
       "icoSha256": "34661525D25E90E25371FEE4D940B0859A8A4F393158C6AAD8F65A0F9497A2AB"
+    },
+    {
+      "id": "theme-video-play",
+      "width": 1254,
+      "height": 1254,
+      "transparent": true,
+      "icoSizes": [
+        16,
+        24,
+        32,
+        48,
+        64,
+        128,
+        256
+      ],
+      "pngSha256": "98D78F3C1FB530B626CB303AFF237DB00053FD30FC4C4B0DA84E47014B06F28F",
+      "icoSha256": "289590196F4559246433725618E42EBD1A6D8AC1B43BEEA6607C78DA7D5263A2"
     }
   ]
 }

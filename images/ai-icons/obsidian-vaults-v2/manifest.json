@@ -1,8 +1,8 @@
 {
   "name": "Obsidian-inspired Vault Icons",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "created": "2026-09-26",
-  "count": 36,
+  "count": 37,
   "icons": [
     {
       "id": "theme-reading-writing",
@@ -265,6 +265,14 @@
       "category": "letter",
       "png": "letters/Obsidian-Z.png",
       "ico": "letters/Obsidian-Z.ico"
+    },
+    {
+      "id": "theme-video-play",
+      "label": "视频制作（播放）",
+      "category": "theme",
+      "color": "ruby red",
+      "png": "themes/Obsidian-video-play.png",
+      "ico": "themes/Obsidian-video-play.ico"
     }
   ]
 }
